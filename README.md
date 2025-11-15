@@ -4,6 +4,9 @@
   🚀 DevOps Engineer | ☁️ Cloud & Automation Enthusiast | 🤖 Exploring MLOps & AIOps
 </p>
 
+<p align="center">
+  <img src="assets/banner.png" alt="Fares Ali DevOps Engineer" />
+</p>
 ---
 
 ## 👨‍💻 About Me
