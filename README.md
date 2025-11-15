@@ -100,7 +100,7 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fares-ali-26246b387)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/fares-ali-26246b387)  
 - 📧 Email: fares.ali.sharf@gmail.com  
 
 Always happy to connect with DevOps, Cloud, and AI enthusiasts 😄
