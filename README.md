@@ -89,12 +89,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Fares Ali GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faresalig&show_icons=true&theme=tokyonight" alt="Fares Ali GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Fares Ali GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faresalig&theme=tokyonight" alt="Fares Ali GitHub streak" />
 </p>
+
 
 ---
 
